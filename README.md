@@ -26,10 +26,7 @@
 ### 🧠 Competitive Programming Progress
 
 <div align="center">
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/tani125">
-    <img src="https://leetcard.jacoblin.cool/tani125?theme=dark&font=Baloo%202&ext=contest&animation=true" width="420" alt="LeetCode Stats" />
-  </a>
+  <!-- LeetCode -
   
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/tanish125">
