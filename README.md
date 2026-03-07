@@ -46,14 +46,6 @@ I'm a problem-solver at heart, specializing in bridging the gap between **Deep L
 
 ---
 
-### 🏆 Competitive Programming
-<div align="center">
-  <a href="https://codeforces.com/profile/tanish125">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tanish125&theme=radical&border_color=FF4B91&bg_color=0D1117&border_radius=15" width="400" />
-  </a>
-</div>
-
----
 
 ### 🤝 Connect & Collaborate
 <div align="center">
